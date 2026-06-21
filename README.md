@@ -1,9 +1,9 @@
 # ToDo List App 
 ##  Features
-- **Create Tasks:** Easily add new tasks with a title and description.
-- **Delete Tasks:** Remove completed or unwanted tasks.
+- **Create Tasks:** Easily add new tasks.
+- **Delete Tasks:** Remove completed and edit tasks.
 - **Persistent Storage:** Your data is saved locally and remains available even after closing the app.
-- **Modern UI:** Built with a fully declarative UI approach.
+- **Modern UI:** Built with a simple and minimal UI.
 
 ##  Tech Stack & Architecture
 This app follows the **official Android architectural guidance** to ensure scalability and maintainability.
