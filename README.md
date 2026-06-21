@@ -15,6 +15,11 @@ This app follows the **official Android architectural guidance** to ensure scala
 - **Asynchronous Programming:** Kotlin Coroutines for non-blocking database operations.
 
 ##  Screenshots
+<div align="center">
+  <img src="1.jpg" width="300" />
+  <img src="2.jpg" width="300" />
+  <img src="dark_mode.jpg" width="300" />
+</div>
 
 <!-- 
 <p align="center">
